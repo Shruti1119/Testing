@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-         Sahu coder
+         Sahu coder is fake coder.
         </a>
       </header>
     </div>
