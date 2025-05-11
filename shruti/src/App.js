@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-         Shruti coder
+         Sahu coder
         </a>
       </header>
     </div>
